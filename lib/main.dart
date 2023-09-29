@@ -7,7 +7,7 @@ void main() {
       home: Scaffold(
         backgroundColor: Color.fromARGB(255, 26, 25, 25),
         appBar: AppBar(
-          title: const Center(child: Text(' My Curriculum Vitae')),
+          title: const Center(child: Text('IamPoor')),
           backgroundColor: Color.fromARGB(255, 0, 0, 0),
         ),
         body: const Padding(
